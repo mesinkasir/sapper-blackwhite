@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# BLACKWHITE PREMIUM WEB APP SAPPER SVELTE TAILWIND BOOTSTRAP ALL IN ONE
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/sapper-blackwhite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Test Drive a Demo →](https://blackwhite.pages.dev/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Documentation Installation :
+[https://www.hockeycomputindo.com/2021/10/premium-template-website-sapper-svelte.html →](https://www.hockeycomputindo.com/2021/10/premium-template-website-sapper-svelte.html)
 
-### Markdown
+[Video demo →](https://youtu.be/vtSINWl5pho)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With progresive web app modules you can build modern web app using sapper svelte , clean design on blackwhite.
 
-```markdown
-Syntax highlighted code block
+![free download sapper svelte modern web premium tailwind bootstrap gratis](https://1.bp.blogspot.com/-aRgJpp6NgKc/YXZslQe_wmI/AAAAAAAARfg/asEGmaCHsn8u2VGC-Gc9tBuemrTlp4W0gCLcBGAsYHQ/s1024/free%2Bsource%2Bcode%2Bwebsite%2Btemplate%2Bthemes%2Bsapper%2Bsvelte%2Bgratis%2B%25281%2529.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+Multi devices view ready
 
-- Bulleted
-- List
+![free download sapper svelte modern web premium tailwind bootstrap gratis](https://1.bp.blogspot.com/-pLZFor1lmTI/YXZsnUKUyYI/AAAAAAAARf0/smX_m10amVog2iJH7FR-XbeMqBkNEr2OwCLcBGAsYHQ/s1024/free%2Bsource%2Bcode%2Bwebsite%2Btemplate%2Bthemes%2Bsapper%2Bsvelte%2Bgratis%2B%25282%2529.jpg)
 
-1. Numbered
-2. List
+A mobile first 
 
-**Bold** and _Italic_ and `Code` text
+![free download sapper svelte modern web premium tailwind bootstrap gratis](https://1.bp.blogspot.com/-tL8HLFK6jAQ/YXZsn0c_x3I/AAAAAAAARf8/8l4lPDLw7tQoNfjPorhMAumPniyiiAVoACLcBGAsYHQ/s1024/free%2Bsource%2Bcode%2Bwebsite%2Btemplate%2Bthemes%2Bsapper%2Bsvelte%2Bgratis%2B%25283%2529.jpg)
 
-[Link](url) and ![Image](src)
-```
+Clean design with black and white mode.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+How to install and deploy your website with free cost ?? read documentation :
+[https://www.hockeycomputindo.com/2021/10/premium-template-website-sapper-svelte.html →](https://www.hockeycomputindo.com/2021/10/premium-template-website-sapper-svelte.html)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/sapper-blackwhite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+--------------------------------------------------------------------------------------------------------------------
 
-### Support or Contact
+### Buy me a coffee ☕️ ❤️  ✌🏻
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
+
